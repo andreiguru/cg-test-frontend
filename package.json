@@ -1,0 +1,17 @@
+{
+  "name": "cg-test",
+  "private": true,
+  "version": "0.2.0",
+  "description": "CG test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "serve-static": "^1.13.2"
+  }
+}
